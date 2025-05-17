@@ -10,7 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="" alt="Discord" title="discord-server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href=""><img width="32px" alt="Dev" title="Theeraphat Coder" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="paypal" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p> 
